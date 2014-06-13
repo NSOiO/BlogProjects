@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B307AAB-5605-4D0B-98F1-F28D6374D3E1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Gesture_Pop_iOS7+</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>571B5FF9-C151-49BA-8FBF-089EB3FFF5A9</key>
+		<string>https://github.com/daition340/BlogProjects</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gesture_pop_ios7+/Gesture_Pop_iOS7+/Gesture_Pop_iOS7+.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>571B5FF9-C151-49BA-8FBF-089EB3FFF5A9</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daition340/BlogProjects</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>571B5FF9-C151-49BA-8FBF-089EB3FFF5A9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>571B5FF9-C151-49BA-8FBF-089EB3FFF5A9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BlogProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
